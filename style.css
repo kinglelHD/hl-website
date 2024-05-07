@@ -6,6 +6,9 @@
 }
 
 :root {
+
+    font-size: calc(1vw + 6px);
+
     color-scheme: dark;
     /*Variabeln*/
     --primary: rgb(44, 185, 221);
@@ -103,6 +106,7 @@ section#Projects {
     border-radius: 50%;
     display: none;
     opacity: .75;
+    font-size: 1rem;
 }
 #scroll-button:hover, #scroll-button:focus {
     opacity: 1;
@@ -134,6 +138,9 @@ section#Projects {
 }
 
 @media only screen and (min-width: 500px) {
+    :root {
+        font-size: calc(1vw + 8px);
+    }
     ul {
         grid-auto-flow: column;
     }
