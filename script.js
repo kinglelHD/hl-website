@@ -1,4 +1,4 @@
-console.log('༼ つ ◕_◕ ༽つ');
+console.log('tchncs-identity-proof-007aa76549a03e6c');
 
 let time
 
