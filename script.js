@@ -1,5 +1,4 @@
-console.log('Danke für den Aufwand (:');
-console.log('tchncs-identity-proof-e64e95fd5554e454');
+console.log('༼ つ ◕_◕ ༽つ');
 
 let time
 
